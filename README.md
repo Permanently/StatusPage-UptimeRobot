@@ -31,7 +31,7 @@ This project is designed to be a drag-and-drop solution used in conjunction with
 
 1. Fork this repository
 2. Edit the configuration ~~at the top of the file~~ in *config.php*. (Make sure permissions are set correctly, you don't want someone stealing your API key! Not that it matters too much for UptimeRobot, but it's always good practice.)
-3. Add your Monitors' IDs to the `categories` object ~~on line `188`~~ in the config file. (Should be obvious where it is) You can find your Monitor IDs by clicking on them in the UptimeRobot website and looking at your URL. Remember to add your API Key, too!
+3. Add your Monitors' IDs to the `categories` object ~~on line 188~~ in the config file. (Should be obvious where it is) You can find your Monitor IDs by clicking on them in the UptimeRobot website and looking at your URL. Remember to add your API Key, too!
 
 Example: `https://uptimerobot.com/dashboard.php#123456789` The ID for this Monitor is `123456789`.
 
