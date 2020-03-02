@@ -29,7 +29,9 @@ This project is designed to be a drag-and-drop solution used in conjunction with
 ### Installation
 
 `StatusPage-UptimeRobot` will run on any web server that can run PHP code and serve HTML. It is recommended to host outside of your network for availability.
+
 *(Hey kmain4, Permanently here! Just a heads up that not all web servers can run PHP, you only said it can be used on any web server that serves HTML. That's not always the case - e.g., if you run this on an Apache2 server and PHP isn't installed then it won't work.)*
+
 *(Hey past Permanently, future Permanently here! You were going to add that PHP isn't even needed as all it does is echo JavaScript into the code, which doesn't hide the API key at all - but then gave it the benefit of the doubt since you're not all that experienced with PHP. Time to get learning!)*
 
 1. Fork this repository
